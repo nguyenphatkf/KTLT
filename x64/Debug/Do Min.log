@@ -1,0 +1,20 @@
+﻿  functions.cpp
+C:\Lập trình game\Do Min\Do Min\functions.cpp(76,11): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1258)
+C:\Lập trình game\Do Min\Do Min\functions.cpp(76,11): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1258)
+C:\Lập trình game\Do Min\Do Min\functions.cpp(76,11): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1258)
+C:\Lập trình game\Do Min\Do Min\functions.cpp(227,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(662,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(668,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(673,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(678,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(702,65): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(704,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(706,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(708,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(717,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(719,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(721,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(723,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(725,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Lập trình game\Do Min\Do Min\functions.cpp(735,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+  Do Min.vcxproj -> C:\Lập trình game\Do Min\x64\Debug\Do Min.exe
